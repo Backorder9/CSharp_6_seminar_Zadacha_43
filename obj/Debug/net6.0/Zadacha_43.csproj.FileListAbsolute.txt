@@ -1,0 +1,15 @@
+D:\C#\6_seminar\6_zadanie\Zadacha_43\bin\Debug\net6.0\Zadacha_43.exe
+D:\C#\6_seminar\6_zadanie\Zadacha_43\bin\Debug\net6.0\Zadacha_43.deps.json
+D:\C#\6_seminar\6_zadanie\Zadacha_43\bin\Debug\net6.0\Zadacha_43.runtimeconfig.json
+D:\C#\6_seminar\6_zadanie\Zadacha_43\bin\Debug\net6.0\Zadacha_43.dll
+D:\C#\6_seminar\6_zadanie\Zadacha_43\bin\Debug\net6.0\Zadacha_43.pdb
+D:\C#\6_seminar\6_zadanie\Zadacha_43\obj\Debug\net6.0\Zadacha_43.csproj.AssemblyReference.cache
+D:\C#\6_seminar\6_zadanie\Zadacha_43\obj\Debug\net6.0\Zadacha_43.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\6_seminar\6_zadanie\Zadacha_43\obj\Debug\net6.0\Zadacha_43.AssemblyInfoInputs.cache
+D:\C#\6_seminar\6_zadanie\Zadacha_43\obj\Debug\net6.0\Zadacha_43.AssemblyInfo.cs
+D:\C#\6_seminar\6_zadanie\Zadacha_43\obj\Debug\net6.0\Zadacha_43.csproj.CoreCompileInputs.cache
+D:\C#\6_seminar\6_zadanie\Zadacha_43\obj\Debug\net6.0\Zadacha_43.dll
+D:\C#\6_seminar\6_zadanie\Zadacha_43\obj\Debug\net6.0\refint\Zadacha_43.dll
+D:\C#\6_seminar\6_zadanie\Zadacha_43\obj\Debug\net6.0\Zadacha_43.pdb
+D:\C#\6_seminar\6_zadanie\Zadacha_43\obj\Debug\net6.0\Zadacha_43.genruntimeconfig.cache
+D:\C#\6_seminar\6_zadanie\Zadacha_43\obj\Debug\net6.0\ref\Zadacha_43.dll
